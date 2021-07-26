@@ -6,3 +6,4 @@ www.firo.org <br>
 explorer.firo.org <br>
 forum.firo.org <br>
 testexplorer.firo.org <br>
+stats.firo.org <br>
