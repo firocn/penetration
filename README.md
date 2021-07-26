@@ -2,7 +2,7 @@
 Perform security inspections on the web application assets of the firo project
 
 ## target
-www.firo.org
-explorer.firo.org
-forum.firo.org
-testexplorer.firo.org
+www.firo.org <br>
+explorer.firo.org <br>
+forum.firo.org <br>
+testexplorer.firo.org <br>
